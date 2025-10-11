@@ -1,3 +1,1 @@
-HydraX is a fork of the Project Hydra (Meshtastic PCB). It is built on Project Hydra’s foundation with new features and modifications.
-
 Ikoka NanoX (eXtended Range) Meshtastic PCB is a fork of the [Ikoka Nano Meshtastic Device](https://github.com/ndoo/ikoka-nano-meshtastic-device) created by [Andrew Yong](https://ndoo.sg/projects:amateur_radio:meshtastic:diy_devices:ikoka_nano). This is a modified version of the original design released under CERN-OHL-P.

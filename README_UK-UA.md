@@ -1,6 +1,6 @@
 Ikoka NanoX (eXtended) Meshtastic PCB є форком [Ikoka Nano Meshtastic Device](https://github.com/ndoo/ikoka-nano-meshtastic-device) автором якого є [Andrew Yong](https://ndoo.sg/start). Він є модифікацією Ikoka Nano Meshtastic Device та містить деякі нові функції.
 
-## Ikoka NanoiX Meshtastic Device
+## Ikoka NanoX Meshtastic Device
 
 ![Ikoka NanoX 1.1.2 front](media/1.1.2/Ikoka-NanoX-1.1.2-front.png)
 
@@ -40,7 +40,7 @@ Ikoka NanoX (eXtended) Meshtastic PCB є форком [Ikoka Nano Meshtastic Dev
 
 Є інтерактивний [iBom](Ikoka-NanoX-KiCad/bom/ibom.html).
 
-### Замовлення у JLCPCB
+### Замовлення з JLCPCB
 
 Версія плати v1.1.1 замовлялася і працює. Версія v1.1.2 не тестувалася.
 
@@ -71,7 +71,7 @@ Ikoka NanoX (eXtended) Meshtastic PCB є форком [Ikoka Nano Meshtastic Dev
 
 ## Корпус
 
-Є 3D модель корпусу для Ikoka NanoX на [Printables](https://www.printables.com/model/1440471-ikoka-nano-pocket-case) (не тестував з v1.1.2, але має підійти)/
+Є моя 3D модель корпусу **Ikoka NanoX Pocket Case** на [Printables](https://www.printables.com/model/1440471-ikoka-nano-pocket-case) (не тестував з v1.1.2, але має підійти)/
 
 ![Ikoka NanoX корпус](media/1.1.1/Ikoka-NanoX-case.png)
 

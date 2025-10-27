@@ -1,4 +1,4 @@
-Ikoka NanoX (eXtended) Meshtastic PCB є форком [Ikoka Nano Meshtastic Device](https://github.com/ndoo/ikoka-nano-meshtastic-device) автором якого є [Andrew Yong](https://ndoo.sg/start). Він є модифікацією Ikoka Nano Meshtastic Device та містить деякі нові функції.
+Ikoka NanoX (eXtended) Meshtastic Device є форком [Ikoka Nano Meshtastic Device](https://github.com/ndoo/ikoka-nano-meshtastic-device) автором якого є [Andrew Yong](https://ndoo.sg/start). Він є модифікацією Ikoka Nano Meshtastic Device та містить деякі нові функції.
 
 ## Ikoka NanoX Meshtastic Device
 
